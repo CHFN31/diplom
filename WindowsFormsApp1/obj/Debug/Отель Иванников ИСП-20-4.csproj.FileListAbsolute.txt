@@ -1,0 +1,40 @@
+C:\Users\Чемпионат\Desktop\000002\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\Чемпионат\Desktop\000002\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\Чемпионат\Desktop\000002\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\Чемпионат\Desktop\000002\WindowsFormsApp1\obj\Debug\Отель Иванников ИСП-20-4.csproj.AssemblyReference.cache
+C:\Users\Чемпионат\Desktop\000002\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\Чемпионат\Desktop\000002\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Авторизация.resources
+C:\Users\Чемпионат\Desktop\000002\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ПанельМенеджера.resources
+C:\Users\Чемпионат\Desktop\000002\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ПанельСотрудникаНомеров.resources
+C:\Users\Чемпионат\Desktop\000002\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Регистрация.resources
+C:\Users\Чемпионат\Desktop\000002\WindowsFormsApp1\obj\Debug\Отель Иванников ИСП-20-4.csproj.GenerateResource.cache
+C:\Users\Чемпионат\Desktop\000002\WindowsFormsApp1\obj\Debug\Отель Иванников ИСП-20-4.csproj.CoreCompileInputs.cache
+C:\Users\Чемпионат\Desktop\000002\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\Чемпионат\Desktop\000002\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\Чемпионат\Desktop\000002\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ДобавлениеСотрудника.resources
+C:\Users\Чемпионат\Desktop\000002\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ИзменениеСтатуса.resources
+C:\Users\Чемпионат\Desktop\000002\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ПанельСотрудникаУслуг.resources
+C:\Users\Чемпионат\Desktop\000002\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ДобавлениеСмены.resources
+C:\Users\Чемпионат\Desktop\000002\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.СозданиеЗаказа.resources
+C:\Users\Чемпионат\Desktop\000002\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ИзменениеСтатусаЗаказа.resources
+D:\Защита сайта\Демонстрационный экзамен\Иванников. 000002\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Защита сайта\Демонстрационный экзамен\Иванников. 000002\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Защита сайта\Демонстрационный экзамен\Иванников. 000002\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Защита сайта\Демонстрационный экзамен\Иванников. 000002\WindowsFormsApp1\obj\Debug\Отель Иванников ИСП-20-4.csproj.AssemblyReference.cache
+D:\Защита сайта\Демонстрационный экзамен\Иванников. 000002\WindowsFormsApp1\obj\Debug\Отель Иванников ИСП-20-4.csproj.SuggestedBindingRedirects.cache
+D:\Защита сайта\Демонстрационный экзамен\Иванников. 000002\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Защита сайта\Демонстрационный экзамен\Иванников. 000002\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Авторизация.resources
+D:\Защита сайта\Демонстрационный экзамен\Иванников. 000002\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ДобавлениеСмены.resources
+D:\Защита сайта\Демонстрационный экзамен\Иванников. 000002\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ДобавлениеСотрудника.resources
+D:\Защита сайта\Демонстрационный экзамен\Иванников. 000002\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ИзменениеСтатуса.resources
+D:\Защита сайта\Демонстрационный экзамен\Иванников. 000002\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ИзменениеСтатусаЗаказа.resources
+D:\Защита сайта\Демонстрационный экзамен\Иванников. 000002\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ПанельМенеджера.resources
+D:\Защита сайта\Демонстрационный экзамен\Иванников. 000002\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ПанельСотрудникаНомеров.resources
+D:\Защита сайта\Демонстрационный экзамен\Иванников. 000002\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ПанельСотрудникаУслуг.resources
+D:\Защита сайта\Демонстрационный экзамен\Иванников. 000002\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.СозданиеЗаказа.resources
+D:\Защита сайта\Демонстрационный экзамен\Иванников. 000002\WindowsFormsApp1\obj\Debug\Отель Иванников ИСП-20-4.csproj.GenerateResource.cache
+D:\Защита сайта\Демонстрационный экзамен\Иванников. 000002\WindowsFormsApp1\obj\Debug\Отель Иванников ИСП-20-4.csproj.CoreCompileInputs.cache
+D:\Защита сайта\Демонстрационный экзамен\Иванников. 000002\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Защита сайта\Демонстрационный экзамен\Иванников. 000002\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Защита сайта\Демонстрационный экзамен\Иванников. 000002\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ЗагрузкаАвторизации.resources
+D:\Защита сайта\Демонстрационный экзамен\Иванников. 000002\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.ИзменениеСтатусаПлатежа.resources

@@ -1,0 +1,205 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{967302DC-7EA4-421D-A3FA-689BE5C5D9D0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WindowsFormsApp1</RootNamespace>
+    <AssemblyName>WindowsFormsApp1</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Авторизация.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Авторизация.Designer.cs">
+      <DependentUpon>Авторизация.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ДобавлениеСмены.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ДобавлениеСмены.Designer.cs">
+      <DependentUpon>ДобавлениеСмены.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ДобавлениеСотрудника.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ДобавлениеСотрудника.Designer.cs">
+      <DependentUpon>ДобавлениеСотрудника.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ЗагрузкаАвторизации.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ЗагрузкаАвторизации.Designer.cs">
+      <DependentUpon>ЗагрузкаАвторизации.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ИзменениеСтатуса.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ИзменениеСтатуса.Designer.cs">
+      <DependentUpon>ИзменениеСтатуса.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ИзменениеСтатусаЗаказа.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ИзменениеСтатусаЗаказа.Designer.cs">
+      <DependentUpon>ИзменениеСтатусаЗаказа.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ИзменениеСтатусаПлатежа.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ИзменениеСтатусаПлатежа.Designer.cs">
+      <DependentUpon>ИзменениеСтатусаПлатежа.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ОтельDataSet.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ОтельDataSet.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ОтельDataSet1.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>ОтельDataSet1.xsd</DependentUpon>
+    </Compile>
+    <Compile Include="ПанельМенеджера.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ПанельМенеджера.Designer.cs">
+      <DependentUpon>ПанельМенеджера.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ПанельСотрудникаНомеров.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ПанельСотрудникаНомеров.Designer.cs">
+      <DependentUpon>ПанельСотрудникаНомеров.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ПанельСотрудникаУслуг.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ПанельСотрудникаУслуг.Designer.cs">
+      <DependentUpon>ПанельСотрудникаУслуг.cs</DependentUpon>
+    </Compile>
+    <Compile Include="СозданиеЗаказа.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="СозданиеЗаказа.Designer.cs">
+      <DependentUpon>СозданиеЗаказа.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Авторизация.resx">
+      <DependentUpon>Авторизация.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ДобавлениеСмены.resx">
+      <DependentUpon>ДобавлениеСмены.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ДобавлениеСотрудника.resx">
+      <DependentUpon>ДобавлениеСотрудника.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ЗагрузкаАвторизации.resx">
+      <DependentUpon>ЗагрузкаАвторизации.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ИзменениеСтатуса.resx">
+      <DependentUpon>ИзменениеСтатуса.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ИзменениеСтатусаЗаказа.resx">
+      <DependentUpon>ИзменениеСтатусаЗаказа.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ИзменениеСтатусаПлатежа.resx">
+      <DependentUpon>ИзменениеСтатусаПлатежа.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ПанельМенеджера.resx">
+      <DependentUpon>ПанельМенеджера.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ПанельСотрудникаНомеров.resx">
+      <DependentUpon>ПанельСотрудникаНомеров.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ПанельСотрудникаУслуг.resx">
+      <DependentUpon>ПанельСотрудникаУслуг.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="СозданиеЗаказа.resx">
+      <DependentUpon>СозданиеЗаказа.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <None Include="ОтельDataSet.xsc">
+      <DependentUpon>ОтельDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ОтельDataSet.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ОтельDataSet.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ОтельDataSet.xss">
+      <DependentUpon>ОтельDataSet.xsd</DependentUpon>
+    </None>
+    <None Include="ОтельDataSet1.xsc">
+      <DependentUpon>ОтельDataSet1.xsd</DependentUpon>
+    </None>
+    <None Include="ОтельDataSet1.xsd">
+      <Generator>MSDataSetGenerator</Generator>
+      <LastGenOutput>ОтельDataSet1.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="ОтельDataSet1.xss">
+      <DependentUpon>ОтельDataSet1.xsd</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
